@@ -1,0 +1,19 @@
+{
+  "provider": {
+    "opencode": {
+      "models": {
+        "big-pickle": {
+          "name": "Big Pickle",
+          "limit": {
+            "context": 200000,
+            "input": 160000,
+            "output": 32000
+          },
+          "options": {
+            "reasoningEffort": "low"
+          }
+        }
+      }
+    }
+  }
+}
